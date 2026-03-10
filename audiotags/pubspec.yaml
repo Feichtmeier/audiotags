@@ -18,7 +18,7 @@ dependencies:
   flutter_rust_bridge: 2.7.0
   meta: ^1.8.0
   uuid: any
-  freezed_annotation: ^2.4.1
+  freezed_annotation: ^2.11.1
   rust_lib_audiotags:
     path: rust_builder
 
